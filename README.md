@@ -86,4 +86,4 @@ This project was built for personal learning, but contributions and feedback are
 ## License
 MIT License
 
-Developed by Me(haha): [Abraham K. Blama](https://github.com/KCblama19) – Learning DSA and applying it to real-world simulations.
+> Developed by Me(haha): [Abraham K. Blama](https://github.com/KCblama19) – Learning DSA and applying it to real-world simulations.
